@@ -1,115 +1,154 @@
 # hexrw/web-development
 
-A personal web developer bookmark/link collection
+A personal web developer bookmark & link collection, nicely organized for rapid reference.
 
-## Links
+---
 
-### self-hostable
+## Table of Contents
 
-https://www.getoutline.com/
-https://affine.pro/
-https://twenty.com/
-https://www.odoo.com/
-https://huly.io/
-https://plane.so/
-https://docs.vendure.io/guides/storefront/connect-api/
-https://listmonk.app/
-https://mailcow.email/
-https://www.superblocks.com/
-https://payloadcms.com/
-https://www.webiny.com/
-https://www.vvveb.com/
-https://easypanel.io/
-https://coolify.io/
-https://www.goatcounter.com/
-https://plausible.io/
-https://www.windmill.dev/
-https://www.nocobase.com/
+- [Self-Hostable Platforms & Tools](#self-hostable-platforms--tools)
+- [Website Builders & CMS](#website-builders--cms)
+- [Database & Analytics](#database--analytics)
+- [Backend / API](#backend--api)
+- [Frontend Libraries & Frameworks](#frontend-libraries--frameworks)
+- [Cloud & Hosting](#cloud--hosting)
+- [Productivity, Business & Services](#productivity-business--services)
+- [Developer Tools](#developer-tools)
+- [AI & Automation](#ai--automation)
+- [Browser Projects](#browser-projects)
 
-### website-builder
+---
 
-https://webflow.com/
-https://www.framer.com/
+## Self-Hostable Platforms & Tools
 
-### database
+- [Outline](https://www.getoutline.com/) — Team knowledge base, easy to self-host
+- [Affine](https://affine.pro/) — All-in-one knowledge workspace, self-hostable
+- [twenty.com](https://twenty.com/) — Team collaboration platform
+- [Odoo](https://www.odoo.com/) — Open source business app suite (ERP, CRM, etc)
+- [Huly](https://huly.io/) — Modern project management, self-hostable
+- [Plane](https://plane.so/) — Project & product management platform
+- [Listmonk](https://listmonk.app/) — Newsletter & mailing list manager
+- [Mailcow](https://mailcow.email/) — Self-hosted email platform
+- [Superblocks](https://www.superblocks.com/) — Internal tooling builder
+- [Payload CMS](https://payloadcms.com/) — Headless CMS for developers (Node.js, MongoDB)
+- [Webiny](https://www.webiny.com/) — Serverless CMS & application framework
+- [VVVeb](https://www.vvveb.com/) — Drag-and-drop website designer
+- [Easypanel](https://easypanel.io/) — Server control panel for Docker
+- [Coolify](https://coolify.io/) — Open-source Heroku/Netlify alternative
+- [GoatCounter](https://www.goatcounter.com/) — Web analytics, privacy-friendly, self-hostable
+- [Plausible](https://plausible.io/) — Simple, privacy-friendly analytics platform
+- [Windmill](https://www.windmill.dev/) — Workflow automation & job orchestration
+- [Nocobase](https://www.nocobase.com/) — Open-source no-code platform
+- [Vendure Storefront API](https://docs.vendure.io/guides/storefront/connect-api/) — Headless commerce API
 
-https://turso.tech/
-https://supabase.com/dashboard/project/ndhvhbcwallijkolqtet/editor
-https://www.metabase.com/
+---
 
-### library
+## Website Builders & CMS
 
-https://talkjs.com/
-https://ts-rest.com/server/serverless/aws
-https://surveyjs.io/
-https://jsx.email/
-https://framework7.io/
-https://konstaui.com/
-https://motion.vueuse.org/
-https://capacitorjs.com/docs
-https://atroposjs.com/docs#browser-compatibility
-https://expo.dev/
-https://stenciljs.com/
-https://blurha.sh/
+- [Webflow](https://webflow.com/) — Visual website builder
+- [Framer](https://www.framer.com/) — Modern website design & building tool
+- [Superblocks](https://www.superblocks.com/) — Internal tools builder (also self-hostable, see above)
+- [Storyblok](https://www.storyblok.com/) — Headless CMS
+- [Sanity](https://www.sanity.io/) — Real-time headless CMS
+- [Ghostkit](https://www.ghostkit.io/) — Page builder toolkit for WordPress, etc.
 
-### cloud
+---
 
-https://semplates.io/
-https://www.localstack.cloud/
-https://www.quic.cloud/
-https://www.storyblok.com/
-https://www.sanity.io/
-https://www.vantage.sh/
-https://www.relay.app/
-https://hubspot.com
+## Database & Analytics
 
-### web-development
+#### Database Providers
 
-https://docs.tresjs.org/
-https://www.ghostkit.io/
-https://redwoodjs.com/
-https://histoire.dev/
-https://elysiajs.com/
-https://nuejs.org/
-https://starlight.astro.build/
-https://tanstack.com/table/latest
-https://tailus.io/
-https://xtendui.com/
-https://github.com/pmndrs/uikit
-https://ui.nuxt.com/
-https://nitro.build/
+- [Supabase](https://supabase.com/) — Postgres-based development platform (self-hostable or hosted)
+- [Neon](https://neon.com/) — Serverless Postgres, branching, autoscaling (cloud-hosted)
+- [Turso](https://turso.tech/) — Lightweight, edge-friendly SQLite database
 
-### api
+#### Data Analytics
 
-https://heyapi.dev/
+- [Metabase](https://metabase.com) — Easy, powerful analytics & visualization
+- [GoatCounter](https://www.goatcounter.com/) — Lightweight, privacy-first analytics (self-hostable)
+- [Plausible](https://plausible.io/) — Simple, privacy-focused analytics
 
-### services
+---
 
-https://supalaunch.com/
-https://www.mailhub.sh/
-https://www.deel.com/
-https://www.sinch.com/
-https://excalidraw.com/
-https://api.video/
+## Backend / API
 
-### tools
+- [HeyAPI](https://heyapi.dev/) — Quick API mock & testing platform
+- [Elysia](https://elysiajs.com/) — Fast, modern backend framework for TypeScript
+- [Nue](https://nuejs.org/) — Batteries-included Node.js framework
+- [RedwoodJS](https://redwoodjs.com/) — Full-stack app framework (JS/TS)
+- [Nitro](https://nitro.build/) — Backend-agnostic build framework for web servers/API
+- [API.video](https://api.video/) — Video hosting & streaming API
 
-https://mrm.js.org/
-https://transform.tools/js-object-to-typescript
-https://pkgx.sh/
-https://volta.sh/
+---
 
-### ai
+## Frontend Libraries & Frameworks
 
-https://e2b.dev/docs#what-is-e2-b
-https://ai-sdk.dev/
-https://promptql.io/
+- [TresJS](https://docs.tresjs.org/) — Declarative Three.js for Vue
+- [UI Kit by pmndrs](https://github.com/pmndrs/uikit) — High-level React UI kit
+- [Tailus](https://tailus.io/) — UI kits, templates, and CSS utility classes
+- [Xtend UI](https://xtendui.com/) — Tailwind CSS components & plugins
+- [Nuxt UI](https://ui.nuxt.com/) — Official UI library for Nuxt
+- [Starlight](https://starlight.astro.build/) — Astro-based docs theme/framework
+- [Motion (VueUse)](https://motion.vueuse.org/) — Motion & animation utilities for Vue
+- [Framework7](https://framework7.io/) — Mobile web app framework
+- [Stencil](https://stenciljs.com/) — Web component compiler
+- [Expo](https://expo.dev/) — React Native app tooling
+- [Atropos](https://atroposjs.com/docs#browser-compatibility) — Touch-friendly 3D parallax for web
 
-### business
+#### UI & Component Libraries
 
-https://www.angelinvestmentnetwork.cz/proposalsubmit-v2/companyinfo
+- [Konsta UI](https://konstaui.com/) — Mobile-first UI library for React/Vue/Svelte
+- [BlurHash](https://blurha.sh/) — Compact image placeholder algorithm
+- [jsx.email](https://jsx.email/) — Build responsive email templates with JSX
 
-### browser
+#### Real-time & Chat
 
-https://ladybird.org/
-https://zen-browser.app/
+- [TalkJS](https://talkjs.com/) — Messaging/chat as service
+- [SurveyJS](https://surveyjs.io/) — Survey and form library
+
+---
+
+## Cloud & Hosting
+
+- [Localstack](https://www.localstack.cloud/) — AWS cloud stack emulator for local development
+- [Quic.Cloud](https://www.quic.cloud/) — CDN & web acceleration
+- [Vantage](https://www.vantage.sh/) — Cloud spend analytics & insight
+- [Relay](https://www.relay.app/) — Automate and connect cloud workflows
+- [Coolify](https://coolify.io/) — Self-hosted PaaS, deploy apps easily (also in self-hostable above)
+- [Hubspot](https://hubspot.com) — CRM & marketing cloud
+
+---
+
+## Productivity, Business & Services
+
+- [Supalaunch](https://supalaunch.com/) — Launch products on Product Hunt, etc.
+- [Mailhub](https://www.mailhub.sh/) — Transactional + marketing email service
+- [Deel](https://www.deel.com/) — Payroll, HR for remote teams
+- [Sinch](https://www.sinch.com/) — Messaging, voice, video, verification APIs
+- [Excalidraw](https://excalidraw.com/) — Collaborative virtual whiteboard
+- [Angel Investment Network](https://www.angelinvestmentnetwork.cz/) — Investor network, start-up funding
+
+---
+
+## Developer Tools
+
+- [Mrm](https://mrm.js.org/) — Automate project configuration
+- [Transform Tools, JS Object to TypeScript](https://transform.tools/js-object-to-typescript) — Code transformer utilities
+- [Pkgx](https://pkgx.sh/) — Cross-platform package manager
+- [Volta](https://volta.sh/) — JavaScript tool manager
+- [CapacitorJS](https://capacitorjs.com/docs) — Native iOS/Android/web apps with JavaScript
+
+---
+
+## AI & Automation
+
+- [E2B](https://e2b.dev/docs#what-is-e2-b) — Run code on ephemeral cloud sandboxes (dev & AI workflows)
+- [AI SDK](https://ai-sdk.dev/) — SDK and tools for integrating AI
+- [PromptQL](https://promptql.io/) — Write SQL-like queries for LLMs
+
+---
+
+## Browser Projects
+
+- [Ladybird Browser](https://ladybird.org/) — Modern web browser project (from creators of SerenityOS)
+- [Zen Browser](https://zen-browser.app/) — Focused minimal browser
