@@ -1,6 +1,6 @@
-# hexrw/web-development
+# hexrw/bookmarks
 
-A personal web developer bookmark & link collection, nicely organized for rapid reference.
+A personal developer bookmark & link collection, organized for rapid reference.
 
 ---
 
