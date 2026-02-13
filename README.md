@@ -145,6 +145,7 @@ A personal web developer bookmark & link collection, nicely organized for rapid 
 - [E2B](https://e2b.dev/docs#what-is-e2-b) — Run code on ephemeral cloud sandboxes (dev & AI workflows)
 - [AI SDK](https://ai-sdk.dev/) — SDK and tools for integrating AI
 - [PromptQL](https://promptql.io/) — Write SQL-like queries for LLMs
+- [Mastra](https://mastra.ai/) - Build agents with a modern TypeScript stack. Mastra is an all-in-one framework for building AI-powered applications and agents.
 
 ---
 
