@@ -41,6 +41,9 @@ A personal developer bookmark & link collection, organized for rapid reference.
 - [Nocobase](https://www.nocobase.com/) — Open-source no-code platform
 - [Vendure Storefront API](https://docs.vendure.io/guides/storefront/connect-api/) — Headless commerce API
 
+**Storage**:
+- [MinIO](https://www.min.io/) - Unmatched Exibyte capable S3-compatible open-source storage provider
+
 ---
 
 ## Website Builders & CMS
