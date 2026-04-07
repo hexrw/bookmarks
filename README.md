@@ -43,6 +43,7 @@ A personal developer bookmark & link collection, organized for rapid reference.
 
 **Storage**:
 - [MinIO](https://www.min.io/) - Unmatched Exibyte capable S3-compatible open-source storage provider
+- [Wasabi](https://wasabi.com/) - Hot storage way cheaper than AWS
 
 ---
 
