@@ -82,6 +82,7 @@ A personal developer bookmark & link collection, organized for rapid reference.
 - [RedwoodJS](https://redwoodjs.com/) — Full-stack app framework (JS/TS)
 - [Nitro](https://nitro.build/) — Backend-agnostic build framework for web servers/API
 - [API.video](https://api.video/) — Video hosting & streaming API
+- [Scalar](https://scalar.com/) - Modern Swagger UI replacement - OpenAPI spec web client/UI generator
 
 ---
 
