@@ -151,6 +151,7 @@ A personal developer bookmark & link collection, organized for rapid reference.
 - [AI SDK](https://ai-sdk.dev/) — SDK and tools for integrating AI
 - [PromptQL](https://promptql.io/) — Write SQL-like queries for LLMs
 - [Mastra](https://mastra.ai/) - Build agents with a modern TypeScript stack. Mastra is an all-in-one framework for building AI-powered applications and agents.
+- [D3k](https://dev3000.ai/) - The AI-enabled browser for development - Run stack with browser automatically attached - optimized for AI - nice CLI with unified timeline.
 
 ---
 
