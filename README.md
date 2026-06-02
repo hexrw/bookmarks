@@ -20,6 +20,10 @@ A personal developer bookmark & link collection, organized for rapid reference.
 
 ---
 
+## Misc
+
+- [Remotion](https://www.remotion.dev/) - Magic, web technologies -> Video
+
 ## Self-Hostable Platforms & Tools
 
 - [Outline](https://www.getoutline.com/) — Team knowledge base, easy to self-host
