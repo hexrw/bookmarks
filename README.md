@@ -10,12 +10,13 @@ A personal developer bookmark & link collection, organized for rapid reference.
 - [Website Builders & CMS](#website-builders--cms)
 - [Database & Analytics](#database--analytics)
 - [Backend / API](#backend--api)
-- [Frontend Libraries & Frameworks](#frontend-libraries--frameworks)
+- [Web Development Libraries & Frameworks](#web-development-libraries--frameworks)
 - [Cloud & Hosting](#cloud--hosting)
 - [Productivity, Business & Services](#productivity-business--services)
 - [Developer Tools](#developer-tools)
 - [AI & Automation](#ai--automation)
 - [Browser Projects](#browser-projects)
+- [Tooling](#tooling)
 
 ---
 
@@ -86,7 +87,7 @@ A personal developer bookmark & link collection, organized for rapid reference.
 
 ---
 
-## Frontend Libraries & Frameworks
+## Web Development Libraries & Frameworks
 
 - [TresJS](https://docs.tresjs.org/) — Declarative Three.js for Vue
 - [UI Kit by pmndrs](https://github.com/pmndrs/uikit) — High-level React UI kit
@@ -99,6 +100,10 @@ A personal developer bookmark & link collection, organized for rapid reference.
 - [Stencil](https://stenciljs.com/) — Web component compiler
 - [Expo](https://expo.dev/) — React Native app tooling
 - [Atropos](https://atroposjs.com/docs#browser-compatibility) — Touch-friendly 3D parallax for web
+- [Leptos](https://leptos.dev) - Full stack, fully typed Rust framework for the modern web
+- [T3](https://create.t3.gg/) - Full stack starter
+- [T4]https://t4stack.com) - Ship Universal Apps - Web + Native - Full-stack Cross-platform starter
+- [Million.js](https://million.dev) - Drop in react optimizer - up to 70% performance improvement
 
 #### UI & Component Libraries
 
@@ -159,3 +164,9 @@ A personal developer bookmark & link collection, organized for rapid reference.
 
 - [Ladybird Browser](https://ladybird.org/) — Modern web browser project (from creators of SerenityOS)
 - [Zen Browser](https://zen-browser.app/) — Focused minimal browser
+
+---
+
+## Tooling
+
+- [Bazel](https://bazel.build) - An open-source build and test tool similar to Make, Maven, and Gradle. Bazel supports projects in multiple languages and builds outputs for multiple platforms.
